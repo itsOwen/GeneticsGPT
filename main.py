@@ -8,7 +8,7 @@ from PyQt5.QtGui import QPixmap, QFont
 from PyQt5.QtCore import Qt
 
 # OpenAI Key
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 with open("schema.txt", "r") as schema_file:
     schema_prompt = schema_file.read()
