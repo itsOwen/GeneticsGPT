@@ -73,7 +73,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## 📧 Contact
 
-For any questions or inquiries, please contact [owensingh72@gmail.com](mailto:owensingh72@gmail.com).
+For any questions or inquiries, please contact [owensingh72@proton.me](mailto:owensingh72@proton.me).
 
 ---
 
