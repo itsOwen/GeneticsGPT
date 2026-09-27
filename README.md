@@ -73,7 +73,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## 📧 Contact
 
-For any questions or inquiries, please contact [github.com/itsOwen](https://github.com/itsOwen).
+For any questions or inquiries, please contact [@itsOwen](https://github.com/itsOwen).
 
 ---
 
